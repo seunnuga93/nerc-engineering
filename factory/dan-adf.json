@@ -1,0 +1,9 @@
+{
+	"name": "dan-adf",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0c4a0c8-33fc-452c-ab22-ba69aae6dc34",
+		"tenantId": "5fe78ac1-1afe-4009-aa04-a71efb4a5042"
+	}
+}
